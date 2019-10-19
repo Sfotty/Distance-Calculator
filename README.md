@@ -3,7 +3,9 @@
 script to calculate the distance between places
 
 example script:
+
 Enter the first Place: Rome
+
 Enter the second Place: Milan
 
 the distance between Rome and Milan is: 477km
